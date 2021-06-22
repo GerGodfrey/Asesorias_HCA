@@ -1,0 +1,6 @@
+Python fue creado a finales de los 80 por Guido van Rossum en el
+Centro para las Matematicas y la Informatica, Centrum Wiskunde and 
+Informatica, en los Paises Bajos, como un sucesor del lenguaje de 
+programacion ABC!!.
+El nombre del lenguaje proviene de la aficion de su creador por los 
+humoristas britanicos Monthy Python.
